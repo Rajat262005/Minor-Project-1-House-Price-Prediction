@@ -1,4 +1,5 @@
 # Minor-Project-2
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/yourrepo/blob/main/your_notebook.ipynb)
 # 🏡 California Housing Price Prediction with Linear Regression (Colab Version)
 
 This project demonstrates how to build, train, and evaluate a **Linear Regression** model using the **California Housing dataset** on **Google Colab**. It includes data exploration, training/testing, evaluation metrics, and visualizations.
