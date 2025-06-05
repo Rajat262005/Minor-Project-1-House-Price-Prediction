@@ -12,8 +12,8 @@ Click the link below to run the project instantly in your browser with no setup 
 
 👉 **[Open in Google Colab]**
 
-**1.(https://colab.research.google.com/drive/1qWuUlx-4bsF-WiDzP1eVk1sAKO1GecSN?usp=sharing)
-  2.(https://colab.research.google.com/drive/1HcbuJ55dY1ywSJGWVcv_T4DPXZk-tCQ0?usp=sharing)**
+**1.(https://colab.research.google.com/drive/1qWuUlx-4bsF-WiDzP1eVk1sAKO1GecSN?usp=sharing)**
+**2.(https://colab.research.google.com/drive/1HcbuJ55dY1ywSJGWVcv_T4DPXZk-tCQ0?usp=sharing)**
 
 
 ## 📊 Dataset: California Housing
