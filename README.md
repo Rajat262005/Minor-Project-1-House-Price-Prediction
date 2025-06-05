@@ -39,7 +39,7 @@ We use the [California Housing dataset](https://scikit-learn.org/stable/modules/
 - Scikit-learn
 - Pandas
 - NumPy
-- Jupyter Notebook (optional)
+- Google colab (optional)
 
 ---
 
