@@ -10,9 +10,10 @@ This project demonstrates how to build, train, and evaluate a **Linear Regressio
 
 Click the link below to run the project instantly in your browser with no setup required:
 
-👉 **[Open in Google Colab]
-1.(https://colab.research.google.com/drive/1qWuUlx-4bsF-WiDzP1eVk1sAKO1GecSN?usp=sharing)
-2.(https://colab.research.google.com/drive/1HcbuJ55dY1ywSJGWVcv_T4DPXZk-tCQ0?usp=sharing)**
+👉 **[Open in Google Colab]**
+
+**1.(https://colab.research.google.com/drive/1qWuUlx-4bsF-WiDzP1eVk1sAKO1GecSN?usp=sharing)
+  2.(https://colab.research.google.com/drive/1HcbuJ55dY1ywSJGWVcv_T4DPXZk-tCQ0?usp=sharing)**
 
 
 ## 📊 Dataset: California Housing
