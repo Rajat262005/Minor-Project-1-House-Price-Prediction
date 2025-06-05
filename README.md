@@ -1,86 +1,91 @@
 # Minor-Project-2
-# 🏡 California Housing Price Prediction - Linear Regression
+# 🏡 California Housing Price Prediction with Linear Regression (Colab Version)
 
-This project demonstrates how to build and evaluate a **Linear Regression** model using the **California Housing dataset** from Scikit-learn. The goal is to predict median house values based on features such as location, income, and house characteristics.
-
----
-
-## 📊 Dataset
-
-We use the [California Housing dataset](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.fetch_california_housing.html), which contains data collected from the 1990 California census.
-
-### Features:
-- MedInc: Median income in block group
-- HouseAge: Median house age in block group
-- AveRooms: Average number of rooms per household
-- AveBedrms: Average number of bedrooms per household
-- Population: Block group population
-- AveOccup: Average number of household members
-- Latitude: Block group latitude
-- Longitude: Block group longitude
-
-### Target:
-- Median house value in $100,000s
+This project demonstrates how to build, train, and evaluate a **Linear Regression** model using the **California Housing dataset** on **Google Colab**. It includes data exploration, training/testing, evaluation metrics, and visualizations.
 
 ---
 
-## ✅ Project Objectives
+## 🔗 Google Colab Notebook
+
+Click the link below to run the project instantly in your browser with no setup required:
+
+👉 **[Open in Google Colab](https://colab.research.google.com/github/yourusername/california-housing-regression/blob/main/california_housing_colab.ipynb)**
+
+> *(Replace the URL with your actual GitHub notebook link after uploading.)*
+
+---
+
+## 📊 Dataset: California Housing
+
+- Source: `sklearn.datasets.fetch_california_housing()`
+- 8 Features (e.g., median income, house age, rooms, location)
+- Target: Median house value in $100,000s
+
+---
+
+## ✅ Project Goals
 
 - Load and explore the California Housing dataset
-- Build a Linear Regression model
-- Evaluate model performance using RMSE and R² Score
-- Interpret model coefficients
+- Train a Linear Regression model to predict house prices
+- Evaluate the model using RMSE and R² metrics
+- Visualize predictions and feature correlations
 
 ---
 
-## 🛠️ Tech Stack
+## 🧰 Technologies Used
 
 - Python 3.x
+- Google Colab
 - Scikit-learn
 - Pandas
 - NumPy
-- Google colab (optional)
+- Matplotlib
+- Seaborn
 
 ---
 
-## 🚀 How to Run
+## 📈 Model Evaluation (Example Output)
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/yourusername/california-housing-regression.git
-   cd california-housing-regression
-2.Install dependencies
-   pip install -r requirements.txt
-3.Run the script or notebook
-   To run the Python script:
-      python linear_regression_california.py
-   Or open the Jupyter notebook:
-      jupyter notebook california_housing.ipynb
-📂 Project Structure
-bash
-Copy code
+| Metric | Value |
+|--------|-------|
+| RMSE   | ~0.73 |
+| R²     | ~0.61 |
+
+> Note: Actual results may vary slightly depending on the data split.
+
+---
+
+## 🗂️ Project Structure
 california-housing-regression/
-│
-├── california_housing.ipynb         # Jupyter notebook version
-├── linear_regression_california.py  # Python script version
-├── requirements.txt                 # Dependencies
-└── README.md                        # Project overview
-
-📌 License
-This project is open-source and available under the MIT License.
-
-🙌 Acknowledgements
-Scikit-learn Team
-
-UCI Machine Learning Repository
+├── california_housing_colab.ipynb # 📓 Main Google Colab notebook
+└── README.md # 📘 Project documentation
 
 yaml
-Copy code
+Copy
+Edit
 
 ---
 
+## 📌 How to Run (Step-by-step)
 
+1. Click the Colab link above.
+2. Run all cells in order (Shift + Enter).
+3. Review the model output and visualizations.
+4. Optionally, modify parameters or explore further.
 
+---
 
+## 📖 License
+
+This project is released under the [MIT License](LICENSE).
+
+---
+
+## 🙌 Acknowledgements
+
+- [Scikit-learn team](https://scikit-learn.org/)
+- [UCI ML Repository – California Housing Dataset](https://www.dcc.fc.up.pt/~ltorgo/Regression/cal_housing.html)
+
+---
 
 
