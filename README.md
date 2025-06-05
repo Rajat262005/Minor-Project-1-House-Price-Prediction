@@ -10,7 +10,7 @@ This project demonstrates how to build, train, and evaluate a **Linear Regressio
 
 Click the link below to run the project instantly in your browser with no setup required:
 
-👉 **[Open in Google Colab](https://colab.research.google.com/github/yourusername/california-housing-regression/blob/main/california_housing_colab.ipynb)**
+👉 **[Open in Google Colab](https://colab.research.google.com/drive/1qWuUlx-4bsF-WiDzP1eVk1sAKO1GecSN?usp=sharing)**
 
 > *(Replace the URL with your actual GitHub notebook link after uploading.)*
 
