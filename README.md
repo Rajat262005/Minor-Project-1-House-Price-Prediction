@@ -1,4 +1,4 @@
-# Minor-Project-2
+# Minor-Project-1
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/yourrepo/blob/main/your_notebook.ipynb)
 # 🏡 California Housing Price Prediction with Linear Regression (Colab Version)
 
